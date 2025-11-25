@@ -5,6 +5,16 @@
   --cell:#0b1626;
   --text:#e6eef6;
 }
+.watermark {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  opacity: 0.25;
+  font-size: 14px;
+  pointer-events: none; /* para que no moleste al hacer clic */
+  color: #888;
+}
+}
 *{box-sizing:border-box}
 body{
   margin:0;
@@ -72,3 +82,4 @@ footer{margin-top:12px; font-size:12px; text-align:center; color:#84b6c6}
 
 .cell.x { color: #ff4d4d; }
 .cell.o { color: #4da6ff; }
+
