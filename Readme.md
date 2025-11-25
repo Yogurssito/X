@@ -1,10 +1,6 @@
 
-
-
-
-
-### TIC TAC TOE ( TATETI ) 
-Contiene los pasos para crear un bot artificial que juega al tres en raya inteligentemente. Pruébalo:
+## TIC TAC TOE ( TATETI ) 
+Contiene los pasos para crear un bot artificial que juega al tres en raya inteligentemente. para testearlo https://yogurssito.github.io/X/
 
 # Tres en raya con IA (Minimax)
 
@@ -253,6 +249,6 @@ El enfoque por refuerzo:
 
 Solo abrir el archivo:
 
-    index.html oh sino tambien este enlace https://yogurssito.github.io/X/
+    index.html en la carpeta dada en el USB.
 
 No requiere instalaciones de programas externos 
